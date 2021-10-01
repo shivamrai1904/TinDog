@@ -1,2 +1,2 @@
 # TinDog
-A tinder like clone for dog lovers.
+A tinder like clone app for dog lovers.
